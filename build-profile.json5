@@ -132,8 +132,8 @@
       ]
     },
     {
-      "name": "FeaLongin",
-      "srcPath": "./FeaLongin",
+      "name": "FeaLogin",
+      "srcPath": "./FeaLogin",
       "targets": [
         {
           "name": "default",
